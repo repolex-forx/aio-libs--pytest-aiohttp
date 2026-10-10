@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "pytest-aiohttp",
+  "versions": [
+    {
+      "commit": "5f01c5f3c5f4573df756f6e57fa070b8e0491757",
+      "tag": "",
+      "parsed_at": "2026-10-10T19:03:59.458281+00:00"
+    }
+  ]
+}
