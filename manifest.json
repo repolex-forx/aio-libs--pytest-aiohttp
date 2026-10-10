@@ -1,0 +1,41 @@
+{
+  "manifest_version": "1.0",
+  "org": "aio-libs",
+  "repo": "pytest-aiohttp",
+  "versions": [
+    {
+      "commit": "5f01c5f3c5f4573df756f6e57fa070b8e0491757",
+      "parsed_at": "2026-10-10T16:19:49.939334+00:00",
+      "filetree": "filetree/5f01c5f3c5f4573df756f6e57fa070b8e0491757.nq.gz",
+      "blobs": [
+        "blob/1b48d5afc3d411ebc452bbea172e24c24b9b4e44.nq.gz",
+        "blob/375155a1ff4486ad458533a391c6f20784f62a22.nq.gz",
+        "blob/a9955b7f530e32dce6768f248cc78765d659e1dd.nq.gz",
+        "blob/320e05a0ef730dd51e38f9d079d295bac7e313f8.nq.gz",
+        "blob/f59dd8b2ffdfb9dba0141d636fbe23352b99b4f6.nq.gz",
+        "blob/bd33618136642f1371fef16ee038d684eea6293a.nq.gz",
+        "blob/0102b0a974ec49314140d79ae6e34f30b6cb4def.nq.gz",
+        "blob/47c439ba7ffdf8f10763f1a4f32fd7ffe1c08a3e.nq.gz",
+        "blob/606849326a4002007fd42060b51e69a19c18675c.nq.gz",
+        "blob/ac7cea1e3c6b13be3f1ff94f9638666cb43f90ab.nq.gz",
+        "blob/109b60026e9355d6b693658f697ac25a9e3f9aa2.nq.gz",
+        "blob/93f9f275b06ce56f3e15dba7398a5e64ad6204cc.nq.gz",
+        "blob/a333cd2ee0e63414f6de26ab55ef114d01de34a2.nq.gz",
+        "blob/3d909caa0b93faa72a79e86a9fc69de5cccd7bcf.nq.gz",
+        "blob/c556f28250f7aaa3086bbbfab9bd8b445f944041.nq.gz",
+        "blob/8c52f6c493422ed59bdca3089c53a1d440ea7f94.nq.gz",
+        "blob/fcbb3002434110c2e42d40296512009fbfeda0e2.nq.gz",
+        "blob/4ed00b59535375f6da52cefd9988870ef9e5a047.nq.gz",
+        "blob/e01e5f0458efdafc11fce62dd12510d40d5ff4d9.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/fa0147f78dc35223dc45a41bc91b6d71fd3f4e35.nq.gz",
+        "blob/bb54c49ab10eb2310cb97dd99f40ff07d7cb823a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
